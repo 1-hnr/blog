@@ -8,8 +8,8 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
-  blog = "/:slug/"
-  tags = "/blog/:slug"
+  posts = "/:slug/"
+  tags = "/posts/:slug"
 
 [params]
   description = "🌈🙌🌈"
