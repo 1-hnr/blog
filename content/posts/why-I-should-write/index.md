@@ -26,4 +26,4 @@ Netflix 的科幻剧集《Love, Death and Robots》中，我最喜欢的一集�
 ![](images/image-4.png)
 ![](images/image-5.png)
 
-Be foolish, be simple.
+Be foolish, be simple.我应该拥抱我自己，真诚地写出我想、写出我爱。I don not want to be driven mad by my thoughts. 这是我的欢愉，在这令人悲伤的世界里。如果它是火，让他将这原野上的荆棘烧个干净。
