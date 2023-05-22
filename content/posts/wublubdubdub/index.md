@@ -14,3 +14,5 @@ wublubdubdub
 《Lost in Translation》
 
 有种人，心底的痛苦向人说不出。
+
+李沧东《燃烧》

@@ -26,4 +26,4 @@ Netflix 的科幻剧集《Love, Death and Robots》中，我最喜欢的一集�
 ![](images/image-4.png)
 ![](images/image-5.png)
 
-Be foolish, be simple.我应该拥抱我自己，真诚地写出我想、写出我爱。I don not want to be driven mad by my thoughts. 这是我的欢愉，在这令人悲伤的世界里。如果它是火，让他将这原野上的荆棘烧个干净。
+Be foolish, be simple.我应该拥抱我自己，真诚地写出我想、写出我爱。I don not want to be driven mad by my thoughts. 写作，这是我的欢愉，在这令人悲伤的世界里。如果它是火，让他将这原野上的荆棘烧个干净（李沧东《燃烧》）。人终有一死，或昂扬或卑微，是命运早已打好的底色。但在这之前，胸中的兽，请横冲直撞吧。
